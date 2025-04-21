@@ -1,3 +1,6 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQF0e_spFYOvtg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1691443929506?e=1750896000&v=beta&t=zwPZIRXaGjCgZBwwq0q-kEqI0XWxU0RFPfofiHTV_V0" alt="Bhushan Banner" width="100%" />
+
+
 # 💫 About Me:
 Hey! I’m Bhushan — someone who loves turning ideas into working systems. I jump between backend development, AI/ML, and automation, always chasing better ways to solve real-world problems.<br><br>From building APIs to training models, I enjoy learning by doing (and sometimes breaking things along the way 😄).<br><br>🛠️ Currently Into<br>🔹 Designing and improving backend architectures<br>🔹 Exploring machine learning and its real-world use<br>🔹 Working on hands-on projects that push my limits<br><br>Curious by default. Learning on loop. Always building. 🚀
 
